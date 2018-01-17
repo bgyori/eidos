@@ -6,6 +6,12 @@ import ReaderUtils._
 
 class TestModifications extends FlatSpec with Matchers {
 
+//  NOTE: All of these sentences are from the RAPS texts.
+//  Only the first few tests have been updated to handle modifications.
+//  Sent4 tests need updating (this sentence has a lot in it!!) and beyond there most
+//  of the sentences need updating still.
+
+
   //TODO: Move any cause-effect tests to a TestEvents class
 
 
